@@ -1,0 +1,38 @@
+.position{
+  color:rgb(93, 182, 93);
+  margin-bottom: -30px;
+}
+.address{
+  margin-top: -10px;
+  text-decoration:none;
+}
+.skill{
+  color:rgb(93, 182, 93);;
+}
+.edu{
+  
+  line-height:1px;
+  line-height:5px;
+}
+.education{
+  margin-top:10px;
+  color:rgb(93, 182, 93);
+  
+}
+
+/* .education{
+  margin-top:40px;
+  color:rgb(93, 182, 93);
+  
+} */
+
+.exp{
+  margin-top:30px;
+  color:rgb(93, 182, 93);
+}
+.ati{
+  color:rgb(93, 182, 93);
+}
+a{
+  text-decoration:none;
+}
